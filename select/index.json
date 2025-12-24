@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Love in the Milky Way Cafe",
+  "base_artist": "10CM",
+  "createdAt": "2025-12-24T13:43:56.273879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love in the Milky Way Cafe",
+      "artist": "10cm",
+      "has_synced": true,
+      "path": "select/01_Love_in_the_Milky_Way_Cafe_10cm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love in the Milky Way Café",
+      "artist": "AKMU",
+      "has_synced": true,
+      "path": "select/02_Love_in_the_Milky_Way_Café_AKMU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love in the Milky Way Cafe",
+      "artist": "10cm",
+      "has_synced": false,
+      "path": "select/pl_01_Love_in_the_Milky_Way_Cafe_10cm.txt"
+    }
+  ]
+}
